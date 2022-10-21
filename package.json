@@ -1,16 +1,16 @@
 {
-"name": "lucabet999s",
-"theme": "lucabet999s",
-"version": "2.7.3",
-"description": "lucabet999s ทางเข้าหลักเว็บไซต์แทงบอลเว็บตรง คนเล่นเยอะ รับเงินเครดิตฟรี",
-"keywords": [
-"lucabet999s",
-"lucabet999s เครดิตฟรี",
-"lucabet999s ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/lucabet999s",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "lucabet999s",
+  "theme": "lucabet999s",
+  "version": "2.8.0",
+  "description": "lucabet999s ทางเข้าหลักเว็บไซต์แทงบอลเว็บตรง คนเล่นเยอะ รับเงินเครดิตฟรี",
+  "keywords": [
+    "lucabet999s",
+    "lucabet999s เครดิตฟรี",
+    "lucabet999s ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/lucabet999s",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
